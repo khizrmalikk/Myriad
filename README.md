@@ -4,27 +4,27 @@ This is an automation software that allows users to create their own custom auto
 
 
 
-Current Integrations:
+## Current Integrations:
 - Google Drive
 - Slack
 - Discord
 - Notion
 - Whatsapp
 
-Features:
+## Features:
 - 🤯 B2C SaaS
-- 🏢 Connect users Google Drive to the app
-- 🌐 Watch for changes in google drive
-- 🚀 Connect users slack to send notification and custom messages
-- 💻 Connect users discord to send notification and custom messages
+- 🏢 Connect users' Google Drive to the app
+- 🌐 Watch for changes in Google Drive
+- 🚀 Connect users Slack to send notifications and custom messages
+- 💻 Connect users' discord to send notifications and custom messages
 - 🔄 Connect users Notion to create entries in a database
-- 🛒 Stripe to charge month to month subscriptions 
+- 🛒 Stripe to charge month-to-month subscriptions 
 - 🔐 Payments based on credits consumed
-- 💳 Beautiful redesigned node interface
+- 💳 Beautifully redesigned node interface
 - 🚨 Drag and drop node builder
-- 💰 Create automations flows
+- 💰 Create automation flows
 - 📊 Create a sequence of actions to fire after a trigger event happens
-- 🗺️ Mini map to see all workflow nodes
+- 🗺️ Minimap to see all workflow nodes
 - ⭐️ Infinite Canvas
 - ✨ Expandable sidebar with drag feature
 - ⚡️Aceternity UI
