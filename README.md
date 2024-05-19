@@ -1,33 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Myriad: Automate your day 2 day
 
-## Getting Started
+This is an automation software that allows users to create their own custom automation in a user-friendly format. This is achieved through the implementation of ReactFlow.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Current Integrations:
+- Google Drive
+- Slack
+- Discord
+- Notion
+- Whatsapp
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🤯 B2C SaaS
+🏢 Connect users Google Drive to the app
+🌐 Watch for changes in google drive
+🚀 Connect users slack to send notification and custom messages
+💻 Connect users discord to send notification and custom messages
+🔄 Connect users Notion to create entries in a database
+🛒 Stripe to charge month to month subscriptions 
+🔐 Payments based on credits consumed
+💳 Beautiful redesigned node interface
+🚨 Drag and drop node builder
+💰 Create automations flows
+📊 Create a sequence of actions to fire after a trigger event happens
+🗺️ Mini map to see all workflow nodes
+⭐️ Infinite Canvas
+✨ Expandable sidebar with drag feature
+⚡️Aceternity UI
+☀️ Light & Dark mode
+📄 Functioning beautiful landing page
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
