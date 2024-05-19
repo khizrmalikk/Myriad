@@ -11,6 +11,7 @@ Current Integrations:
 - Notion
 - Whatsapp
 
+Features:
 - 🤯 B2C SaaS
 - 🏢 Connect users Google Drive to the app
 - 🌐 Watch for changes in google drive
